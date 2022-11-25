@@ -12,7 +12,7 @@
 ## Takeaways
 - This paper gives a comprehensive explanation of why parameter-efficient models (such as Adapters, LoRA, Bitfit, etc.) achieve promising results.
 - This paper unveils how the sparsity itself improves the model stability and generalization capability theoretically and empirically.
-- This paper proposes an approximately best method to choose the tunable parameters for parameter-efficient models.
+- This paper proposes a provable approximately best method to choose the tunable parameters for parameter-efficient models.
 
 ## Install
 We suggest to create a new conda env to install the dependencies.
