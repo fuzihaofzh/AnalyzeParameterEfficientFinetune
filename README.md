@@ -15,7 +15,7 @@
 - This paper proposes a provable approximately best method to choose the tunable parameters for parameter-efficient models.
 
 ## Install
-We suggest to create a new conda env to install the dependencies.
+This code is the SAM model proposed in the paper. We suggest to create a new conda env to install the dependencies.
 ```
 git clone https://github.com/fuzihaofzh/AnalyzeParameterEfficientFinetune.git
 cd AnalyzeParameterEfficientFinetune 
