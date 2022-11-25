@@ -1,0 +1,3 @@
+#!/bin/bash
+
+CUDA_VISIBLE_DEVICES=0 python src/runscript.py run_with_continue --run_name simple --exp_dir output/exps/cola --data_dir data/tasks --hf_pretrained_model_name_or_path roberta-base --tasks cola --train_batch_size 16 --num_train_epochs 10000 --user_mode bsearch=0.005,burnin=600 --eval_every_steps 500 --min_train_steps 20000 --keep_checkpoint_when_done --do_save --do_test --log_dir output/logs/runs/test/ --learning_rate 1e-4 --no_improvements_for_n_evals 40 

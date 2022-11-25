@@ -1,0 +1,9 @@
+{
+  "task": "wsc",
+  "paths": {
+    "train": "../data/wsc/train.jsonl",
+    "val": "../data/wsc/val.jsonl",
+    "test": "../data/wsc/test.jsonl"
+  },
+  "name": "wsc"
+}

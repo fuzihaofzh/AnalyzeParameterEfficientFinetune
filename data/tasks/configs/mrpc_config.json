@@ -1,0 +1,9 @@
+{
+  "task": "mrpc",
+  "paths": {
+    "train": "../data/mrpc/train.jsonl",
+    "test": "../data/mrpc/test.jsonl",
+    "val": "../data/mrpc/val.jsonl"
+  },
+  "name": "mrpc"
+}

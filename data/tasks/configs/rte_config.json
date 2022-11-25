@@ -1,0 +1,9 @@
+{
+  "task": "rte",
+  "paths": {
+    "train": "../data/rte/train.jsonl",
+    "test": "../data/rte/test.jsonl",
+    "val": "../data/rte/val.jsonl"
+  },
+  "name": "rte"
+}

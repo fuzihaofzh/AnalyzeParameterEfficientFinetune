@@ -1,0 +1,7 @@
+{
+  "task": "glue_diagnostics",
+  "paths": {
+    "test": "../data/glue_diagnostics/test.jsonl"
+  },
+  "name": "glue_diagnostics"
+}

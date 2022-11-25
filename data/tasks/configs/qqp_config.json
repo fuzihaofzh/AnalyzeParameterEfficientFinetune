@@ -1,0 +1,9 @@
+{
+  "task": "qqp",
+  "paths": {
+    "train": "../data/qqp/train.jsonl",
+    "test": "../data/qqp/test.jsonl",
+    "val": "../data/qqp/val.jsonl"
+  },
+  "name": "qqp"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "mnli",
+  "paths": {
+    "train": "../data/mnli/train.jsonl",
+    "val": "../data/mnli/val.jsonl",
+    "test": "../data/mnli/test.jsonl"
+  },
+  "name": "mnli"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "wnli",
+  "paths": {
+    "train": "../data/wnli/train.jsonl",
+    "test": "../data/wnli/test.jsonl",
+    "val": "../data/wnli/val.jsonl"
+  },
+  "name": "wnli"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "copa",
+  "paths": {
+    "train": "../data/copa/train.jsonl",
+    "test": "../data/copa/test.jsonl",
+    "val": "../data/copa/val.jsonl"
+  },
+  "name": "copa"
+}

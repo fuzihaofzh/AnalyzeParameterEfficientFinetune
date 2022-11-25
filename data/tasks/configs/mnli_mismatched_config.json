@@ -1,0 +1,8 @@
+{
+  "task": "mnli_mismatched",
+  "paths": {
+    "val": "../data/mnli_mismatched/val.jsonl",
+    "test": "../data/mnli_mismatched/test.jsonl"
+  },
+  "name": "mnli_mismatched"
+}
