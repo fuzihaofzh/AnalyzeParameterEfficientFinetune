@@ -1,11 +1,17 @@
 # On the Effectiveness of Parameter-Efficient Fine-Tuning
-**Zihao Fu**,<sup>1</sup> **Haoran Yang**,<sup>2</sup> **Anthony Man-Cho So**,<sup>2</sup> **Wai Lam**,<sup>2</sup> **Lidong Bing**,<sup>3</sup> **Nigel Collier**<sup>1</sup>
+<center>**Zihao Fu**,<sup>1</sup> **Haoran Yang**,<sup>2</sup> **Anthony Man-Cho So**,<sup>2</sup> **Wai Lam**,<sup>2</sup> **Lidong Bing**,<sup>3</sup> **Nigel Collier**<sup>1</sup></center>
 
 
 
 <sup>1</sup>Language Technology Lab, University of Cambridge<br>
 <sup>2</sup>The Chinese University of Hong Kong<br>
 <sup>3</sup>DAMO Academy, Alibaba Group
+
+
+## Takeaways
+- This paper gives a comprehensive explanation of why parameter-efficient models (such as Adapters, LoRA, Bitfit, etc.) achieve promising results.
+- This paper unveils how the sparsity itself improves the model stability and generalization capability theoretically and empirically.
+- This paper proposes an approximately best method to choose the tunable parameters for parameter-efficient models.
 
 ## Install
 We suggest to create a new conda env to install the dependencies.
