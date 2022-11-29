@@ -8,6 +8,8 @@
 <sup>3</sup>DAMO Academy, Alibaba Group
 </div>
 
+[[Paper (Full+Appendix)]](https://arxiv.org/pdf/2211.15583.pdf)
+
 
 ## Takeaways
 - This paper gives a comprehensive explanation of why parameter-efficient models (such as Adapters, LoRA, Bitfit, etc.) achieve promising results.
