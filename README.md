@@ -9,6 +9,7 @@
 </div>
 
 [[Paper (Full+Appendix)]](https://arxiv.org/pdf/2211.15583.pdf)
+[[Slides]](https://github.com/fuzihaofzh/AnalyzeParameterEfficientFinetune/blob/main/slides.pdf)
 
 
 ## Takeaways
